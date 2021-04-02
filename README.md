@@ -21,7 +21,7 @@ units, and any other relevant information.
 * README.md The README that explains the analysis files is clear and 
 understandable
 
-* ´´´run_analysis.R´´´ a script file that contains all the steps required for the
+* `run_analysis.R` a script file that contains all the steps required for the
 projecct:
 
 1. Merges the training and the test sets to create one data set.
